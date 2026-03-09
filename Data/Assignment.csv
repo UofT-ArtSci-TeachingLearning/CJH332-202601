@@ -1,0 +1,11 @@
+sample_id,geneA_expression,geneB_expression,cell_viability,treatment_group,time_hours
+S1,5.2,8.1,92,Control,24
+S2,4.8,7.9,88,Control,24
+S3,-1,6.3,80,Control,24
+S4,6.5,9.2,95,Drug,24
+S5,7.1,9.7,97,Drug,24
+S6,5.9,8.9,94,Drug,24
+S7,3.2,7.1,70,Control,48
+S8,4.1,7.4,72,Control,48
+S9,6.8,9,90,Drug,48
+S10,7.2,9.4,93,Drug,48
